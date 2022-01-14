@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZenoCoding
+- 👀 I’m interested in Python, Java, Minecraft, Discord and Computer Science
+- 🌱 I’m currently learning how to make a better discord bot
+- 💞️ I’m looking to collaborate on anything that seems intresting!
+- 📫 You can reach me at ZenoX#3202 on discord
