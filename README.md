@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ZenoCoding
-- 👀 I’m interested in Python, Java, Minecraft, Discord and Computer Science
-- 🌱 I’m currently learning how to make a better discord bot
-- 💞️ I’m looking to collaborate on anything that seems intresting!
-- 📫 You can reach me at ZenoX#3202 on discord
+ZenoCoding
+
+- Languages: Java, Python, HTML5/JS
+- Working on a custom item system for Minecraft!
+- I will contribute on anything but you probably don't want my contributions
+- Contact me at ZenoX#3202 on discord
