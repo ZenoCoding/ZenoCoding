@@ -2,7 +2,7 @@ ZenoCoding
 
 My website: https://tychoyoung.com
 
-"Hey, I'm Tycho Young" - Tycho Young
+"Hey, I'm Tycho Young" - Tycho Young (me)
 
 - Languages: Java, Python, C++ (not really)
 - Familiar with the OpenAI, Discord, and Spigot API (haha SaaS + Minecraft)
