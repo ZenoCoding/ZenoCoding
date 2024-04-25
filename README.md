@@ -1,8 +1,5 @@
 ZenoCoding
-
-My website: https://tychoyoung.com
-
-"Hey, I'm Tycho Young" - Tycho Young (me)
+https://tychoyoung.com
 
 - Languages: Java, Python
 - FRC programmer solo carry
